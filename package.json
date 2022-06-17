@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "sass": "^1.52.1"
+  },
+  "name": "memory-game",
+  "version": "2.0.0",
+  "description": "Just a Game to test my habilities",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "compile-sass": "sass sources/style/sass/index.scss sources/style/css/style.css -w"
+  },
+  "author": "Luiz Felipe de Souza Barbosa",
+  "license": "ISC"
+}
